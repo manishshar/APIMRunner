@@ -1,0 +1,12 @@
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\obj\Debug\AuthConsole.csprojAssemblyReference.cache
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\obj\Debug\AuthConsole.csproj.CoreCompileInputs.cache
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\bin\Debug\AuthConsole.exe.config
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\bin\Debug\AuthConsole.exe
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\bin\Debug\AuthConsole.pdb
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\obj\Debug\AuthConsole.csproj.CopyComplete
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\obj\Debug\AuthConsole.exe
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\obj\Debug\AuthConsole.pdb
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shman\source\repos\AuthConsole\AuthConsole\bin\Debug\Newtonsoft.Json.xml
